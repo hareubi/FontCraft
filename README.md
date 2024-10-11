@@ -1,4 +1,4 @@
-# Neo둥근모
+# FontCraft
 
 - [영문 (English)](https://github.com/neodgm/neodgm/blob/main/README.en.md)
 
