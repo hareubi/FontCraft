@@ -5,7 +5,7 @@ defmodule NeoDGM.Mixfile do
     [
       app: :neodgm,
       version: "1.6.0",
-      elixir: "~> 1.13",
+      elixir: "~> 1.13", #lower than 1.16
       deps: deps(),
       pixel_font: [
         font_module: NeoDGM.Font
