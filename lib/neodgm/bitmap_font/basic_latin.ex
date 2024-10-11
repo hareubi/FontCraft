@@ -804,7 +804,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111110
+    1111111
     1100011
     1100011
     1100011
@@ -822,16 +822,16 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111100
     1100011
     1100011
     1100011
-    1111110
+    1111100
     1100011
     1100011
     1100011
     1100011
-    1111110
+    1111100
     """
   end
 
@@ -840,7 +840,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111110
+    0011100
     1100011
     1100000
     1100000
@@ -849,7 +849,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100000
     1100000
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -858,7 +858,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111100
     1100011
     1100011
     1100011
@@ -867,7 +867,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100011
     1100011
     1100011
-    1111110
+    1111100
     """
   end
 
@@ -876,7 +876,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111111
+    1111111
     1100000
     1100000
     1100000
@@ -885,7 +885,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100000
     1100000
     1100000
-    0111111
+    1111111
     """
   end
 
@@ -894,7 +894,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111111
+    1111111
     1100000
     1100000
     1100000
@@ -912,16 +912,16 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111110
+    1111110
     1100011
     1100000
     1100000
     1100111
+    1100111
     1100011
     1100011
     1100011
-    1100011
-    0111111
+    1111111
     """
   end
 
@@ -975,7 +975,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     0000110
     0000110
     1100110
-    0111100
+    0011100
     """
   end
 
@@ -986,10 +986,10 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     data """
     1100011
     1100011
-    1100011
-    1100110
+    1101100
     1111100
-    1100110
+    1110000
+    1101100
     1100011
     1100011
     1100011
@@ -1020,7 +1020,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111111
     1101011
     1101011
     1101011
@@ -1038,7 +1038,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111111
     1100011
     1100011
     1100011
@@ -1056,7 +1056,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111110
+    0011100
     1100011
     1100011
     1100011
@@ -1065,7 +1065,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100011
     1100011
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1074,11 +1074,11 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111111
     1100011
     1100011
     1100011
-    1111110
+    1111111
     1100000
     1100000
     1100000
@@ -1092,7 +1092,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, -2..10
 
     data """
-    0111110
+    0011100
     1100011
     1100011
     1100011
@@ -1101,9 +1101,9 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100011
     1100011
     1100011
-    0111110
+    0011100
     0001100
-    0000111
+    0000011
     """
   end
 
@@ -1112,11 +1112,11 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    1111110
+    1111100
     1100011
     1100011
     1100011
-    1111110
+    1111100
     1100011
     1100011
     1100011
@@ -1130,16 +1130,16 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0111110
+    0011100
     1100011
     1100000
     1100000
-    0111110
+    0011100
     0000011
     0000011
     0000011
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1175,7 +1175,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100011
     1100011
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1192,7 +1192,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100011
     1100011
     1100011
-    0110110
+    0011100
     0011100
     """
   end
@@ -1242,7 +1242,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     110011
     110011
     110011
-    011110
+    001100
     001100
     001100
     001100
@@ -1364,13 +1364,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    1111110
+    1111100
     0000011
-    0111111
+    0011111
     1100011
     1100011
     1100011
-    0111111
+    0011111
     """
   end
 
@@ -1382,13 +1382,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100000
     1100000
     1100000
-    1111110
+    1111100
     1100011
     1100011
     1100011
     1100011
     1100011
-    1111110
+    1111100
     """
   end
 
@@ -1397,13 +1397,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    0111110
+    0011100
     1100011
     1100000
     1100000
     1100000
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1415,13 +1415,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     0000011
     0000011
     0000011
-    0111111
+    0011111
     1100011
     1100011
     1100011
     1100011
     1100011
-    0111111
+    0011111
     """
   end
 
@@ -1430,13 +1430,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    0111110
+    0011100
     1100011
     1111111
     1100000
     1100000
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1445,7 +1445,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..10
 
     data """
-    0011110
+    0001100
     0110011
     0110000
     0110000
@@ -1463,16 +1463,16 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, -3..7
 
     data """
-    0111111
+    0011111
     1100011
     1100011
     1100011
     1100011
     1100011
-    0111111
+    0011111
     0000011
     1100011
-    0111110
+    0011110
     """
   end
 
@@ -1484,8 +1484,8 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100000
     1100000
     1100000
-    1101110
-    1110011
+    1100000
+    1111111
     1100011
     1100011
     1100011
@@ -1502,7 +1502,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     1100000
     1100000
     1100000
-    1111110
+    1111111
     1100011
     1100011
     1100011
@@ -1520,13 +1520,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     001100
     001100
     000000
-    111100
+    000000
     001100
     001100
     001100
     001100
     001100
-    000111
+    001100
     """
   end
 
@@ -1544,7 +1544,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     110
     110
     110
-    011
+    000
     """
   end
 
@@ -1556,7 +1556,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     00011
     00011
     00000
-    01111
+    00000
     00011
     00011
     00011
@@ -1565,7 +1565,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     00011
     00011
     00011
-    11110
+    11100
     """
   end
 
@@ -1577,7 +1577,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     000011
     000011
     000000
-    000011
+    000000
     000011
     000011
     000011
@@ -1586,7 +1586,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     000011
     110011
     110011
-    011110
+    001100
     """
   end
 
@@ -1597,12 +1597,12 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     data """
     1100000
     1100000
-    1100000
     1100011
     1100011
-    1100110
     1111100
-    1100110
+    1111100
+    1100011
+    1100011
     1100011
     1100011
     """
@@ -1622,7 +1622,7 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     001100
     001100
     001100
-    000111
+    000011
     """
   end
 
@@ -1649,13 +1649,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    1111110
+    0011100
     1101011
     1101011
     1101011
     1101011
-    1101011
-    1101011
+    1100011
+    1100011
     """
   end
 
@@ -1664,8 +1664,8 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    1101110
-    1110011
+    1111100
+    1100011
     1100011
     1100011
     1100011
@@ -1679,8 +1679,8 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    1111110
-    1100011
+    1111000
+    1100111
     1100011
     1100011
     1100011
@@ -1694,13 +1694,13 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 0..7, 0..7
 
     data """
-    0111110
+    0011100
     1100011
     1100011
     1100011
     1100011
     1100011
-    0111110
+    0011100
     """
   end
 
@@ -1916,19 +1916,19 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 1..7, -2..11
 
     data """
-    000111
+    000011
     001100
     001100
     001100
     001100
-    001100
-    111000
-    001100
-    001100
-    001100
+    110000
+    110000
+    110000
     001100
     001100
-    000111
+    001100
+    001100
+    000011
     """
   end
 
@@ -1958,19 +1958,19 @@ glyph_source NeoDGM.BitmapFont.BasicLatin do
     bounds 1..7, -2..11
 
     data """
-    111000
+    110000
     001100
     001100
     001100
     001100
-    001100
-    000111
-    001100
-    001100
-    001100
+    000011
+    000011
+    000011
     001100
     001100
-    111000
+    001100
+    001100
+    110000
     """
   end
 
