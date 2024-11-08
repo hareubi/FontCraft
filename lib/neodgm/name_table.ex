@@ -30,23 +30,23 @@ license_ko = """
 name_table NeoDGM.NameTable do
   name_records language: "en-US" do
     copyright copyright_en
-    family "NeoDunggeunmo"
+    family "FontCraft"
     subfamily "Regular"
-    unique_id "Dalgona : NeoDunggeunmo : 2019"
-    full_name "NeoDunggeunmo"
+    unique_id "hareubi : FontCraft : 2024"
+    full_name "FontCraft"
     version version_str
-    postscript_name "NeoDunggeunmo-Regular"
+    postscript_name "FontCraft-Regular"
     license license_en
     license_url "https://scripts.sil.org/OFL"
   end
 
   name_records language: "ko-KR" do
     copyright copyright_ko
-    family "Neo둥근모"
+    family "폰트 크래프트"
     subfamily "보통"
-    full_name "Neo둥근모"
+    full_name "폰트 크래프트"
     version version_str
-    postscript_name "NeoDunggeunmo-Regular"
+    postscript_name "FontCraft-Regular"
     license license_ko
     license_url "https://scripts.sil.org/OFL"
   end
@@ -55,23 +55,23 @@ end
 name_table NeoDGM.NameTable.Code do
   name_records language: "en-US" do
     copyright copyright_en
-    family "NeoDunggeunmo Code"
+    family "FontCraft Code"
     subfamily "Regular"
-    unique_id "Dalgona : NeoDunggeunmo Code : 2019"
-    full_name "NeoDunggeunmo Code"
+    unique_id "hareubi : FontCraft Code : 2024"
+    full_name "FontCraft Code"
     version version_str
-    postscript_name "NeoDunggeunmoCode-Regular"
+    postscript_name "FontCraftCode-Regular"
     license license_en
     license_url "https://scripts.sil.org/OFL"
   end
 
   name_records language: "ko-KR" do
     copyright copyright_ko
-    family "Neo둥근모 Code"
+    family "폰트 크래프트 Code"
     subfamily "보통"
-    full_name "Neo둥근모 Code"
+    full_name "폰트 크래프트 Code"
     version version_str
-    postscript_name "NeoDunggeunmoCode-Regular"
+    postscript_name "FontCraftCode-Regular"
     license license_ko
     license_url "https://scripts.sil.org/OFL"
   end
